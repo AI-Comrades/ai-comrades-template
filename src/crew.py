@@ -1,6 +1,6 @@
 from crewai import Crew
-from agents import Agents
-from tasks import Tasks
+from src.agents import Agents
+from src.tasks import Tasks
 from dotenv import load_dotenv
 
 
