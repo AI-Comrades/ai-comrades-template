@@ -6,7 +6,7 @@ authors = ["alexbuyan <alexbuyan.dev@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = ">=3.10.0,<3.13"
-crewai = "^0.11.0"
+crewai = "^0.22.5"
 python-dotenv = "1.0.0"
 crewai-tools = "^0.0.16"
 langchain = "^0.1.12"
